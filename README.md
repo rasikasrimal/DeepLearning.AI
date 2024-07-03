@@ -7,7 +7,7 @@ This repository contains my solutions and implementations of assignments from th
 ## About the Course
 If you're a software developer interested in mastering foundational principles of AI and ML, this course is for you. Learn how to implement scalable models using TensorFlow, preparing you to tackle real-world challenges in AI.
 
-To explore more about the course and start your learning journey, visit [Introduction to TensorFlow on Coursera](https://www.coursera.org/introduction-tensorflow/).
+To explore more about the course and start your learning journey, visit [Introduction to TensorFlow on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
 
 ## Topics Covered
 - Basics of TensorFlow
